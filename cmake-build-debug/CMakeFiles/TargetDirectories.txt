@@ -1,0 +1,3 @@
+C:/Users/DELL/CLionProjects/RubicksCubeSolver/cmake-build-debug/CMakeFiles/RubicksCubeSolver.dir
+C:/Users/DELL/CLionProjects/RubicksCubeSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/RubicksCubeSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
