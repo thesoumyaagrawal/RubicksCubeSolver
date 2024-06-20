@@ -7,6 +7,11 @@
 
 #include "bits/stdc++.h"
 
+//  A base class for all Rubik's Cube Model. There are various representation for Rubik's Cube.
+//  Each one has it's own special ways of definitions. This class provides a shared functionality
+//  between all models.
+//  We'll benchmark all models and observe which one is better for performance.
+
 using namespace std;
 
 class GenericRubiksCube {
@@ -48,7 +53,7 @@ public:
     GenericRubiksCube &invert(MOVE ind);
 
 
-    //18 moves
+    //18 moves/Rotations
     virtual GenericRubiksCube &f() = 0;
 
     virtual GenericRubiksCube &fPrime() = 0;
