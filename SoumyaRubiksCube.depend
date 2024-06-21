@@ -15,3 +15,10 @@
 1718962438 d:\c++\soumyarubikscube\src\rubikscube3darray.cpp
 	"GenericRubiksCube.h"
 
+1718995097 source:d:\c++\soumyarubikscube\src\rubikscubedfssolver.cpp
+	"RubiksCubeDfsSolver.h"
+
+1718995489 d:\c++\soumyarubikscube\include\rubikscubedfssolver.h
+	<GenericRubiksCube.h>
+	<bits/stdc++.h>
+
