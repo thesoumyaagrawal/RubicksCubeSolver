@@ -1,3 +1,0 @@
-C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug/CMakeFiles/rubiks_cube_solver.dir
-C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug/CMakeFiles/rebuild_cache.dir
