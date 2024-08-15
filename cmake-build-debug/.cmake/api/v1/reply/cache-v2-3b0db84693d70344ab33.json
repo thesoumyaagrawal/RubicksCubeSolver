@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug"
+			"value" : "d:/c++/SoumyaRubiksCube/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/c++/SoumyaRubiksCube/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube"
+			"value" : "D:/c++/SoumyaRubiksCube"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug"
+			"value" : "D:/c++/SoumyaRubiksCube/cmake-build-debug"
 		},
 		{
 			"name" : "rubiks_cube_solver_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube"
+			"value" : "D:/c++/SoumyaRubiksCube"
 		}
 	],
 	"kind" : "cache",

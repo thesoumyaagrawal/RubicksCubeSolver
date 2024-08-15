@@ -1,6 +1,5 @@
 #include "RubiksCube.h"
 
-
 //Given a color return it's first letter
 char RubiksCube::getColorLetter(COLOR color) {
     switch (color) {
@@ -18,7 +17,6 @@ char RubiksCube::getColorLetter(COLOR color) {
             return 'O';
     }
 }
-
 
 //Describe a move using an index
 string RubiksCube::getMove(MOVE ind) {
@@ -150,7 +148,7 @@ void RubiksCube::print() const {
     cout << "Rubik's Cube:\n\n";
 
     for (int row = 0; row <= 2; row++) {
-        for (unsigned i = 0; i < 7; i++) cout << " ";
+        for (int i = 0; i < 7; i++) cout << " ";
         for (int col = 0; col <= 2; col++) {
             cout << getColorLetter(getColor(FACE::UP, row, col)) << " ";
         }

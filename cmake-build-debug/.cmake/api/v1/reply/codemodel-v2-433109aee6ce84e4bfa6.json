@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "rubiks_cube_solver::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-rubiks_cube_solver-Debug-1ac0e139bd64edb718aa.json",
+					"jsonFile" : "target-rubiks_cube_solver-Debug-0c4a1ee00a077f4cc086.json",
 					"name" : "rubiks_cube_solver",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug",
-		"source" : "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube"
+		"build" : "D:/c++/SoumyaRubiksCube/cmake-build-debug",
+		"source" : "D:/c++/SoumyaRubiksCube"
 	},
 	"version" : 
 	{

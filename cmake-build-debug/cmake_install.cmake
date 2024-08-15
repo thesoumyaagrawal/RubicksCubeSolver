@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/DELL/OneDrive/Desktop/projectRubiksCube
+# Install script for directory: D:/c++/SoumyaRubiksCube
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/DELL/OneDrive/Desktop/projectRubiksCube/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/c++/SoumyaRubiksCube/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
